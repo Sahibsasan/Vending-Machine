@@ -60,7 +60,7 @@ void loop() {
         }
 
         delay(5000);
-        resetLCD();
+        resetLCD();  //Return to initial state
     }
 }
 
